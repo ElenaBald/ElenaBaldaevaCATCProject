@@ -1,0 +1,122 @@
+=============================
+ Starred Commands Log Report
+ Run on: Sun May  4 18:45:07 UTC 2025
+=============================
+
+1. Date:
+Sun May  4 18:45:07 UTC 2025
+
+-----------------------------
+
+2. Hostname:
+ElenaBaldaevaCATC
+
+-----------------------------
+
+3. Architecture:
+x86_64
+
+-----------------------------
+
+4. Full System Info:
+Linux ElenaBaldaevaCATC 6.11.0-1012-azure #12~24.04.1-Ubuntu SMP Mon Mar 10 19:00:39 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+
+-----------------------------
+
+5. System Uptime:
+ 18:45:07 up  4:21,  1 user,  load average: 0.02, 0.01, 0.00
+
+-----------------------------
+
+6. Current User:
+elenabaldaeva
+
+-----------------------------
+
+7. Who is Logged In and What They're Doing:
+ 18:45:07 up  4:21,  1 user,  load average: 0.02, 0.01, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU  WHAT
+elenabal          37.228.250.254   17:27    3:34m  0.00s   ?    sshd: elenabaldaeva [priv]
+
+-----------------------------
+
+8. Top Processes (first 10 lines):
+top - 18:45:07 up  4:21,  1 user,  load average: 0.02, 0.01, 0.00
+Tasks: 112 total,   1 running, 110 sleeping,   1 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :    842.5 total,    151.1 free,    381.2 used,    455.6 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    461.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0   22592  13864   9640 S   0.0   1.6   0:02.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+
+-----------------------------
+
+9. Command History (last 10 commands):
+
+=============================
+
+
+=============================
+ Starred Commands Log Report
+ Run on: Sun May  4 18:56:24 UTC 2025
+=============================
+
+1. Date:
+Sun May  4 18:56:24 UTC 2025
+
+-----------------------------
+
+2. Hostname:
+ElenaBaldaevaCATC
+
+-----------------------------
+
+3. Architecture:
+x86_64
+
+-----------------------------
+
+4. Full System Info:
+Linux ElenaBaldaevaCATC 6.11.0-1012-azure #12~24.04.1-Ubuntu SMP Mon Mar 10 19:00:39 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+
+-----------------------------
+
+5. System Uptime:
+ 18:56:24 up  4:32,  1 user,  load average: 0.00, 0.00, 0.00
+
+-----------------------------
+
+6. Current User:
+elenabaldaeva
+
+-----------------------------
+
+7. Who is Logged In and What They're Doing:
+ 18:56:24 up  4:32,  1 user,  load average: 0.00, 0.00, 0.00
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU  WHAT
+elenabal          37.228.250.254   17:27    3:45m  0.00s   ?    sshd: elenabaldaeva [priv]
+
+-----------------------------
+
+8. Top Processes (first 10 lines):
+top - 18:56:25 up  4:32,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 112 total,   1 running, 110 sleeping,   1 stopped,   0 zombie
+%Cpu(s):  0.0 us,  9.1 sy,  0.0 ni, 90.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :    842.5 total,    151.1 free,    381.1 used,    455.8 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    461.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0   22592  13864   9640 S   0.0   1.6   0:02.65 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+
+-----------------------------
+
+9. Command History (last 10 commands):
+
+=============================
+
+
